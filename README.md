@@ -1,14 +1,8 @@
 #### Not a great man, but an idealistic guy.
 
----
-
 **Fields**: Computer | Science | Philosophy | Economics | Literature
 
----
-
 **Coding**: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Vue.js`
-
----
 
 I've got a blog host in GitHub: [SubwaySamurai](https://y3un9.github.io/subwaysamurai)
 
