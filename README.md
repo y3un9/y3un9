@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-Computer | Science | Philosophy | Economics | Literature
+Not a great man, but an idealistic guy.
 
-`JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Vue.js`
+Fields: Computer | Science | Philosophy | Economics | Literature
 
-You can find my resume [here](https://github.com/y3un9/y3un9/blob/main/resume.pdf).
+Coding: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Vue.js`
+
+I've got a blog host in GitHub: [SubwaySamurai](https://y3un9.github.io/subwaysamurai)
+
+Also, you can find my resume [here](https://github.com/y3un9/y3un9/blob/main/resume.pdf).
 
 <!--
 **y3un9/y3un9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
