@@ -1,6 +1,8 @@
 ### Hi, there. 👋
 
-**Intro**: Not a great man, but an idealistic guy.
+Not a great man, but an idealistic guy.
+
+Invent, create and make. Don't cheat!
 
 **Fields**: Computer | Science | Philosophy | Economics | Literature
 
