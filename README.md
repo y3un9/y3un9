@@ -4,9 +4,19 @@ Not a great man, but an idealistic guy.
 
 Invent, create and make. Don't cheat!
 
-**Fields**: Computer | Science | Philosophy | Economics | Literature
+Fields: Technology | Science | Philosophy | Economics | Literature
 
-**Coding**: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Vue.js`
+Coding:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=efd81d&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=000000)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=4FC08D&labelColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=000000&labelColor=ffffff)
+
+<!-- ![](https://img.shields.io/badge/) -->
 
 I've got a blog host in GitHub: [SubwaySamurai](https://y3un9.github.io/subwaysamurai)
 
