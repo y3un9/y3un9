@@ -2,7 +2,7 @@
 
 Not a great man, but an idealistic guy.
 
-**Fields*: Computer | Science | Philosophy | Economics | Literature
+**Fields**: Computer | Science | Philosophy | Economics | Literature
 
 **Coding**: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Vue.js`
 
