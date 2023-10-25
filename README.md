@@ -1,6 +1,6 @@
 ### Hi, there. 👋
 
-Not a great man, but an idealistic guy.
+**Intro**: Not a great man, but an idealistic guy.
 
 **Fields**: Computer | Science | Philosophy | Economics | Literature
 
