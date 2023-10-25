@@ -1,13 +1,12 @@
 ### Hi, there. 👋
 
-Not a great man, but an idealistic guy.
+**Not a great man, but an idealistic guy.**
 
-Invent, create and make. Don't cheat!
+**Invent, create and make. Don't cheat!**
 
-Fields: Technology | Science | Philosophy | Economics | Literature
+**Fields**: `Technology` | `Science` | `Philosophy` | `Economics` | `Literature`
 
-Coding:
-
+**Coding**:
 ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=efd81d&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=ffffff)
