@@ -20,7 +20,7 @@
 
 I've got a blog hosted in GitHub: [SubwaySamurai](https://y3un9.github.io/subwaysamurai)
 
-By the way, you can find my resume [here](https://github.com/y3un9/y3un9/blob/main/resume.pdf).
+By the way, you can find my resume [here](https://github.com/y3un9/y3un9/blob/main/resume.pdf?raw=true).
 
 <!--
 **y3un9/y3un9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
